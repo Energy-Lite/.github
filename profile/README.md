@@ -18,7 +18,7 @@
     </td>
     <td>
       <h3>Seguridad Criptografíca Avanzada</h3>
-      La protección de los datos se logra mediante <b>Criptografía AES</b> para garantizar una robusta defensa de la integridad y confidencialidad de la información.<br>&nbsp;
+      La protección de los datos se logra mediante <b>Criptografía Simetrica y Asimetrica</b> para garantizar una robusta defensa de la integridad y confidencialidad de la información.<br>&nbsp;
       <p><p>
     </td>
     <td>
