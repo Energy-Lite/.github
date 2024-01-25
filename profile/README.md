@@ -1,7 +1,7 @@
 <table width="100%" border="0">
   <tr>
     <td colspan="3">
-      <h2 align="center">Bienvenidos a <a href="https://github.com/Energy-Lite">Energy Lite!</a></h2>
+      <h2 align="center">Bienvenidos a <a href="https://github.com/Energy-Lite">Energy Lite Corp</a></h2>
       <p align="center">
         <h4 align="center">
           <a href="https://github.com/Energy-Lite"><img src="https://github.com/Energy-Lite/.github/blob/master/profile/path1-4.png"></a><br>
