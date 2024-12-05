@@ -4,7 +4,7 @@
       <h2 align="center">Bienvenidos a <a href="https://github.com/Energy-Lite">Energy Corp</a></h2>
       <p align="center">
         <h4 align="center">
-          <a href="https://github.com/Energy-Lite"><img src="https://github.com/Energy-Lite/.github/blob/master/profile/path1-4.png"></a><br>
+          <a href="https://github.com/Energy-Lite"><img src="https://github.com/Energy-Lite/.github/blob/master/profile/Logo_x2.png"></a><br>
           <br>Líderes en la Implementación de Soluciones AMI para la Transición Energética en Colombia.
           <br><br>
         </h4>
